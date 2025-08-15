@@ -202,9 +202,8 @@ This project is a work in progress and will continue to improve over time. Feedb
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📬 Contact
-Email: franciscoanthony82@gmail.com
-GitHub: AnthonyFrancisco21
-
+- **Email:** [franciscoanthony82@gmail.com](mailto:franciscoanthony82@gmail.com)
+- **GitHub:** [AnthonyFrancisco21](https://github.com/AnthonyFrancisco21)
 
 
 
