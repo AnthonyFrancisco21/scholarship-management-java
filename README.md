@@ -184,6 +184,14 @@ Bucot Scholarship Management System
     <img width="1195" height="669" alt="image" src="https://github.com/user-attachments/assets/37ec76b3-2cdd-46ed-8027-263dda243ff8" />
 
     > Super Admin can generate a complete report of all student accounts, including their details, application status, and submission dates. The report opens in the system’s print dialog, making it ready for immediate printing.
+    
+    ---
+
+- Data Flow Diagram (DFD)
+
+  <img width="892" height="1387" alt="image" src="https://github.com/user-attachments/assets/2b5b2088-f3d7-4107-ac91-1c2b54f77106" />
+
+    ---
 
  ## Future Features
 
